@@ -42,5 +42,35 @@
         "nama": "Jogja - Cirebon"
       }
     ]
+  },
+  "jurusan": {
+    "status": "OK_RESULTS",
+    "msg": "DATA_DITEMUKAN",
+    "results": [
+      {
+        "ticketing_kode": "SS-001-021",
+        "ticketing_tanggal": "24 juni 2019",
+        "ticketing_jam": "00:00",
+        "ticketing_jurusan": "CRB-SMR",
+        "harga": 200000,
+        "harga_apps": 100000
+      },
+      {
+        "ticketing_kode": "SS-001-021",
+        "ticketing_tanggal": "24 juni 2019",
+        "ticketing_jam": "01:00",
+        "ticketing_jurusan": "CRB-SMR",
+        "harga": 200000,
+        "harga_apps": 100000
+      },
+      {
+        "ticketing_kode": "SS-001-021",
+        "ticketing_tanggal": "24 juni 2019",
+        "ticketing_jam": "02:00",
+        "ticketing_jurusan": "CRB-SMR",
+        "harga": 200000,
+        "harga_apps": 100000
+      }
+    ]
   }
 }
