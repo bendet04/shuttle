@@ -1,0 +1,24 @@
+{
+  "ticketing_origin": {
+    "status": "OK_RESULTS",
+    "msg": "DATA_DITEMUKAN",
+    "results": [
+      {
+        "kode": "CRB-SMR",
+        "nama": "Cirebon - Semarang"
+      },
+      {
+        "kode": "CRB-JGJ",
+        "nama": "Cirebon - Jogja"
+      },
+      {
+        "kode": "SMR-CRB",
+        "nama": "Semarang - Cirebon"
+      },
+      {
+        "kode": "JGJ-CRB",
+        "nama": "Jogja - Cirebon"
+      }
+    ]
+  }
+}
