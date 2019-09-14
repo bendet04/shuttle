@@ -21,7 +21,7 @@
       }
     ]
   },
-  ticketing_jurusan: {
+  "ticketing_jurusan": {
     "status": "OK_RESULTS",
     "msg": "DATA_DITEMUKAN",
     "results": [
