@@ -43,7 +43,7 @@
       }
     ]
   },
-  "jadwal": {
+  "jurusan": {
     "status": "OK_RESULTS",
     "msg": "DATA_DITEMUKAN",
     "results": [
@@ -72,5 +72,36 @@
         "harga_apps": 100000
       }
     ]
+  },
+  "kursi": {
+    "status": "OK_RESULTS",
+    "msg": "DATA_DITEMUKAN",
+    "pesanan": {
+      "ticketing_kode": "SS-001-021",
+      "ticketing_tanggal": "24 juni 2019",
+      "ticketing_jam": "01:00",
+      "ticketing_jurusan": "CRB-SMR",
+      "harga": 200000,
+      "harga_apps": 100000
+    },
+    "results": [
+      {
+        "class": "SUPIR",
+        "nomor": 1
+      },
+      {
+        "class": "PNP",
+        "nomor": 2
+      },
+      {
+        "class": "KOSONG",
+        "nomor": 3
+      },
+      {
+        "class": "BOOKED",
+        "nomor": 4
+      }
+    ],
+    "kolom": 3
   }
 }
