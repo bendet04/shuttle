@@ -86,51 +86,63 @@
     },
     "results": [
       {
-        "class": "SOPIR",
+        "class": "PNP",
         "nomor": "1"
       },
       {
-        "class": "PNP",
+        "class": "KOSONG",
+        "nomor": ""
+      },
+      {
+        "class": "SOPIR",
+        "nomor": ""
+      },
+      {
+        "class": "KOSONG",
+        "nomor": ""
+      },
+      {
+        "class": "BOOKED",
         "nomor": "2"
       },
       {
-        "class": "KOSONG",
+        "class": "PNP",
         "nomor": "3"
       },
       {
-        "class": "BOOKED",
+        "class": "PNP",
         "nomor": "4"
       },
       {
-        "class": "BOOKED",
+        "class": "PNP",
         "nomor": "5"
       },
       {
-        "class": "KOSONG",
+        "class": "PNP",
         "nomor": "6"
       },
       {
-        "class": "KOSONG",
+        "class": "PNP",
         "nomor": "7"
       },
       {
-        "class": "KOSONG",
+        "class": "PNP",
         "nomor": "8"
       },
       {
-        "class": "KOSONG",
+        "class": "PNP",
         "nomor": "9"
       },
       {
-        "class": "KOSONG",
+        "class": "PNP",
         "nomor": "10"
       },
       {
-        "class": "KOSONG",
+        "class": "PNP",
         "nomor": "11"
       },
       {
-        "class": "KOSONG",
+        "class": "PNP",
         "nomor": "12"
       }
     ],
